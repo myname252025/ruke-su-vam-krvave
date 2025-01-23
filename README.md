@@ -16,3 +16,16 @@ postavite umesto vaše prethodno prazne stranice.
 Pored regularne landing stranice, tu je i mini verzija koja sadrži samo jednu
 stranicu, a koja je sve što je potrebno da bi se sajt prikazao. Razlika je samo
 u tome što se ne koriste dodatni veb fontovi.
+
+## Način korišćenja
+Sadržaj ove landing stranice, uključujući ali ne ograničavajući se na izvorni
+kod, dokumentaciju i druge materijale (u daljnjem tekstu: "Sadržaj"), objavljen
+je pod [MIT licencom](./LICENSE).
+
+Sadržaj možete slobodno koristiti, kopirati, menjati i distribuirati u skladu
+s uslovima navedene licence.
+
+Autor landing stranice ohrabruje korisnike da je koriste **isključivo na
+sopstvenim domenima ili uz dozvolu vlasnika domena**. Svako drugo korišćenje
+radite isključivo na sopstvenu odgovornost i autor ove landing stranice ne snosi
+nikakvu odgovornost za štetu koja može nastati usled takvog korišćenja.
